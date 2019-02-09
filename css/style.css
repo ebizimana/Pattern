@@ -1,0 +1,6 @@
+#header.jumbotron {
+  background: url("../img/header.jpeg");
+  position: relative;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
